@@ -19,10 +19,3 @@
 - **Icons**: Lucide React / Weather Icons
 - **API**: [OpenWeather](https://openweathermap.org/api)
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
- git clone https://github.com/kanakk020/SkyView.git
- cd SkyView
